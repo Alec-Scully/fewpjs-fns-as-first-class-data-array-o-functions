@@ -10,8 +10,6 @@ let routine = [
     unleashDog(dogName, dogBreed)
 ]
 
-debugger
-
 function wakeDog(dogName, dogBreed) {
     console.log(`Wake ${dogName} the ${dogBreed}`);
     let response = `Wake ${dogName} the ${dogBreed}`
